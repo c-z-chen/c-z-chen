@@ -5,7 +5,6 @@
 <div align="center">
   
   [![blog](https://img.shields.io/website?label=blog.knowscount.com&style=for-the-badge&url=https%3A%2F%2Fblog.knowscount.com)](https://blog.knowscount.com)
-  [![twitter follow](https://img.shields.io/twitter/follow/KnowsCount?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/knowscount)
   
 </div>
 

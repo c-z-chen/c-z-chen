@@ -1,4 +1,4 @@
-![d2wkg3kh24gxbki31cyk](https://user-images.githubusercontent.com/56480008/154952851-3a787f08-926f-4d7b-85ff-e33728a6e520.jpg)
+![d2wkg3kh24gxbki31cyk](./cover.png)
 
 <h3 align="center">极深研几。</h4>
 <h3 align="center">‘More particulars / Must justify my knowledge.’</h4>

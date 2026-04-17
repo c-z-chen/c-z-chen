@@ -11,8 +11,8 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [序 Preface](https://www.ocf.berkeley.edu/~czchen/hello-world-poetry/)
-- [序 Preface](https://www.ocf.berkeley.edu/~czchen/hello-world-prose/)
+- [忘言 序](https://www.ocf.berkeley.edu/~czchen/hello-world-poetry/)
+- [欲辨 序](https://www.ocf.berkeley.edu/~czchen/hello-world-prose/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.ocf.berkeley.edu/~czchen/)

@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![blog](https://img.shields.io/website?label=blog.knowscount.com&style=for-the-badge&url=https%3A%2F%2Fblog.knowscount.com)](https://blog.knowscount.com)
+  [![blog](https://img.shields.io/website?label=my%20blog&style=for-the-badge&url=https://www.ocf.berkeley.edu/~czchen/)](https://www.ocf.berkeley.edu/~czchen/)
   
 </div>
 

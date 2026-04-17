@@ -11,11 +11,6 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [😡 An Essay On An Essay On Criticism #1](https://blog.knowscount.com/an-essay-on-an-essay-on-criticism-11/)
-- [🫀 An Elegy to Keats](https://blog.knowscount.com/an-elegy-to-keats/)
-- [☕️ A Whim](https://blog.knowscount.com/a-whim/)
-- [🐈 To a Cat](https://blog.knowscount.com/to-a-cat/)
-- [🥱 Boredom](https://blog.knowscount.com/boredom/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.knowscount.com)
+➡️ [more blog posts...](https://www.ocf.berkeley.edu/~czchen/)

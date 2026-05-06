@@ -14,8 +14,11 @@
 ### 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [酒德颂 - Laude Virtutis Vini](https://www.ocf.berkeley.edu/~czchen/liu-ling-jiu-de-song/)
+- [无题 - Untitled](https://www.ocf.berkeley.edu/~czchen/li-shangyin-wu-ti/)
+- [锦瑟 - Brocaded Zither](https://www.ocf.berkeley.edu/~czchen/li-shangyin-jin-se/)
+- [Ode to The Bottle](https://www.ocf.berkeley.edu/~czchen/ode-to-the-bottle/)
 - [忘言 序](https://www.ocf.berkeley.edu/~czchen/hello-world-poetry/)
-- [欲辨 序](https://www.ocf.berkeley.edu/~czchen/hello-world-prose/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://www.ocf.berkeley.edu/~czchen/)

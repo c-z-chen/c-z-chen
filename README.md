@@ -14,11 +14,11 @@
 ### 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [酒德颂 - Laude Virtutis Vini](https://www.ocf.berkeley.edu/~czchen/liu-ling-jiu-de-song/)
-- [无题 - Untitled](https://www.ocf.berkeley.edu/~czchen/li-shangyin-wu-ti/)
-- [锦瑟 - Brocaded Zither](https://www.ocf.berkeley.edu/~czchen/li-shangyin-jin-se/)
-- [Ode to The Bottle](https://www.ocf.berkeley.edu/~czchen/ode-to-the-bottle/)
-- [忘言 序](https://www.ocf.berkeley.edu/~czchen/hello-world-poetry/)
+- [刘伶 Liu Ling：酒德颂 - Laude Virtutis Vini](https://www.ocf.berkeley.edu/~czchen/liu-ling-jiu-de-song/)
+- [李商隐 Li Shangyin：无题（昨夜…） - Untitled &lpar;zuó yè …&rpar;](https://www.ocf.berkeley.edu/~czchen/li-shangyin-wu-ti-zuo-ye/)
+- [李商隐 Li Shangyin：无题（相见…） - Untitled &lpar;xiāng jiàn …&rpar;](https://www.ocf.berkeley.edu/~czchen/li-shangyin-wu-ti-xiang-jian/)
+- [李商隐 Li Shangyin：锦瑟 - Brocaded Zither](https://www.ocf.berkeley.edu/~czchen/li-shangyin-jin-se/)
+- [忘言 序](https://www.ocf.berkeley.edu/~czchen/evocations-preface/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://www.ocf.berkeley.edu/~czchen/)

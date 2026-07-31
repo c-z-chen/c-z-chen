@@ -14,11 +14,11 @@
 ### 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [李商隐 Li Shangyin：春雨 Spring Rain](https://www.ocf.berkeley.edu/~czchen/li-shangyin-chun-yu/)
+- [张衡 Zhang Heng：东京赋 Prose-Poem on the Eastern Capital](https://www.ocf.berkeley.edu/~czchen/zhang-heng-dong-jing-fu/)
 - [吴恭亨《对联话》选，以及创作一些](https://www.ocf.berkeley.edu/~czchen/wu-gongheng-couplets-select/)
 - [读陈维崧《王西樵十笏草堂辛甲集序》笔记](https://www.ocf.berkeley.edu/~czchen/chen-weisong-wangxijiao/)
 - [佚名 Anonymous：祭驴文 Elegy of an Ass](https://www.ocf.berkeley.edu/~czchen/elegy-of-an-ass/)
-- [义勇军进行曲 March of the Volunteers](https://www.ocf.berkeley.edu/~czchen/march-of-the-volunteers/)
-- [苏轼 Su Shi：题西林壁 - Written on Xilin Wall](https://www.ocf.berkeley.edu/~czchen/su-shi-ti-xi-lin-bi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://www.ocf.berkeley.edu/~czchen/)
